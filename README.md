@@ -2,7 +2,7 @@
 Made an Inventory system for a computer hardware store. The project is developed using php, bootstrap, js ,sql.
 Here are screenshots for the same.
 1.Login Page
-![Login Page](screenshots/Login.png "The Login Page")
+![Login Page](screenshots/Login.png)
 2.Home Page and search bar
 ![Home Page](screenshots/HomePageUpper.png "The Upper view of homepage.")
 3.Home Page bottom
